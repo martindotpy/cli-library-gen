@@ -22,3 +22,15 @@ or
 ```bash
 <project-name> <optional-sub-command> -<short-flag> <arg1> <arg2> ... <argN>
 ```
+
+## To-do
+
+- [x] Implementar funcionalidad de flag
+- [ ] Implementar funcionalidad de sub comandos
+- [ ] Implementar una parses de los sub comandos, flags y argumentos
+- [ ] Implementar un manage para todos los sub comandos y flags
+- [ ] Implementar testing
+
+## Anexos
+
+- [Documentación del proyecto](https://docs.google.com/document/d/1J68LCDewLswLGXYSNAZNQ1PjGhjsjVJcZz7b_H0TazQ/edit)
